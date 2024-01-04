@@ -4,4 +4,3 @@ import numpy as np
 # bakery management system
 # ggg
 # fd
-# dfdf
